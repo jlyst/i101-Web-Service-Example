@@ -3,5 +3,5 @@ Repository for Student Project Documentation
 
 ---
 
-[Example Web Service](example.md)
+[Example Web Service](documentation/example.md)
 
