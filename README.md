@@ -1,4 +1,4 @@
-# Example Web Service
+# Web Service Template
 This web service provides access to data on the top 100 movies (as voted by viewers).
 
 ## All 100 movies
