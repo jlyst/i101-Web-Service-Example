@@ -44,3 +44,21 @@ The movie release year to search
 
 #### Example
 https://jsroutesexamples--jimlyst.repl.co/get-year/2019
+
+## Between Years
+
+#### Description
+Retrieve all data about movies between two years.
+
+#### API Call
+https://jsroutesexamples--jimlyst.repl.co/between-years/{year1}/{year2}
+
+#### Parameters
+**year1**
+The earliest movie release year to search
+
+**year2**
+The latest movie release year to search
+
+#### Example
+https://jsroutesexamples--jimlyst.repl.co/between-years/1999/2019
