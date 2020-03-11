@@ -7,13 +7,13 @@ This web service provides access to data on the top 100 movies (as voted by view
 Retrieve all data about the top 100 movies
 
 #### API Call
-https://jsroutes--jimlyst.repl.co/
+https://jsroutesexamples--jimlyst.repl.co/
 
 #### Parameters
 None
 
 #### Example
-https://jsroutes--jimlyst.repl.co/
+https://jsroutesexamples--jimlyst.repl.co/
 
 ## Top Five Movies
 
@@ -21,13 +21,13 @@ https://jsroutes--jimlyst.repl.co/
 Retrieve all data about the top 5 movies
 
 #### API Call
-https://jsroutes--jimlyst.repl.co/top-five
+https://jsroutesexamples--jimlyst.repl.co/top-five
 
 #### Parameters
 None
 
 #### Example
-https://jsroutes--jimlyst.repl.co/top-five
+https://jsroutesexamples--jimlyst.repl.co/top-five
 
 
 ## Movies by Year
@@ -36,11 +36,11 @@ https://jsroutes--jimlyst.repl.co/top-five
 Retrieve all data about movies from a particular year.
 
 #### API Call
-https://jsroutes--jimlyst.repl.co/get-year/{year}
+https://jsroutesexamples--jimlyst.repl.co/get-year/{year}
 
 #### Parameters
 **year**
 The movie release year to search
 
 #### Example
-https://jsroutes--jimlyst.repl.co/get-year/2019
+https://jsroutesexamples--jimlyst.repl.co/get-year/2019
